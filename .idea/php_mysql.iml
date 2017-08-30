@@ -4,5 +4,10 @@
     <content url="file://$MODULE_DIR$" />
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="ms-2017-relaunch-dynamic-banners" />
+    <orderEntry type="module" module-name="uhcmeeting.com" />
+    <orderEntry type="module" module-name="css" />
+    <orderEntry type="module" module-name="ms-2016-dynamic-banner-extended" />
+    <orderEntry type="module" module-name="federal" />
   </component>
 </module>

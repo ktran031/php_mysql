@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="VcsDirectoryMappings">
-    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../css_essential_training/css" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../../ms-2016-dynamic-banner-extended" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../../www.uhcmeeting.com.loc.ymarketing.net" vcs="Git" />
   </component>
 </project>
